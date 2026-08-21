@@ -1,5 +1,6 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Just Horsing Around
+Introduction: Hey Everyone! Welcome to Just Horsing Around! Where you can learn a bit about different horse breeds and what they are all famous for!
 ---
 ## The index page
 
