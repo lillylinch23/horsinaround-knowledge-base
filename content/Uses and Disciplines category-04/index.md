@@ -18,4 +18,4 @@ title Uses and Disciplines: Category 04
 **
 
 ## Related Categories 
-The uses of racing, ranch work, dressage, jumping and trail riding correlate specifically to the roles in [[Breed Profiles category-02/index|index]] due to the use of each breed and what they're most commonly used for. 
+The uses of racing, ranch work, dressage, jumping and trail riding correlate specifically to the roles in [[Breed Profiles category-02/index|index]] due to the use of each breed and what they're most commonly used for.
