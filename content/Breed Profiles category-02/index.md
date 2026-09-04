@@ -18,7 +18,7 @@ title Breed Profiles: Category 02
 **
 
 ## Related Categories
-The uses of Arabians, Quarter Horses, Thoroughbreds, Mustangs, and Clydesdales correlate specifically to the roles in [[Uses and Disciplines category-04/index|index]] due to what each breed is most commonly used for. 
+The uses of Arabians, Quarter Horses, Thoroughbreds, Mustangs, and Clydesdales correlate specifically to the roles in [[Uses and Disciplines category-04/index|main categories]] due to what each breed is most commonly used for. 
 
 
 
